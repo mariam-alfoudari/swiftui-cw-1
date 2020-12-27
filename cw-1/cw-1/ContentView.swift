@@ -23,6 +23,7 @@ struct ContentView: View {
              Spacer()
             
             Text("الحمد الله رب العالمين")
+                .font(.custom("Lateef-Regular.ttf", size: 39))
             
             Spacer()
             
