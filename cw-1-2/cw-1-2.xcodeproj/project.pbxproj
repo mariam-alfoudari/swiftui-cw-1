@@ -20,6 +20,7 @@
 		394B0A48259646D900094638 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		394B0A4B259646D900094638 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		394B0A4D259646D900094638 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39F44AB72598325500EE1A20 /* Lateef-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lateef-Regular.ttf"; path = "../../cw-1/cw-1/Lateef-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				394B0A44259646D700094638 /* cw_1_2App.swift */,
 				394B0A46259646D700094638 /* ContentView.swift */,
 				394B0A48259646D900094638 /* Assets.xcassets */,
+				39F44AB72598325500EE1A20 /* Lateef-Regular.ttf */,
 				394B0A4D259646D900094638 /* Info.plist */,
 				394B0A4A259646D900094638 /* Preview Content */,
 			);
